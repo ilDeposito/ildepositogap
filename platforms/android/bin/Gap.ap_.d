@@ -14,6 +14,7 @@
 /home/sdurzu/Prova/ildepositogap/platforms/android/assets/www \
 /home/sdurzu/Prova/ildepositogap/platforms/android/assets/www/API.txt \
 /home/sdurzu/Prova/ildepositogap/platforms/android/assets/www/LICENSE.txt \
+/home/sdurzu/Prova/ildepositogap/platforms/android/assets/www/plugins \
 /home/sdurzu/Prova/ildepositogap/platforms/android/assets/www/cordova_plugins.js \
 /home/sdurzu/Prova/ildepositogap/platforms/android/assets/www/includes \
 /home/sdurzu/Prova/ildepositogap/platforms/android/assets/www/jquery-1.9.1.min.js \
@@ -32,6 +33,10 @@
 /home/sdurzu/Prova/ildepositogap/platforms/android/assets/www/jquery.mobile-1.3.1.min.css \
 /home/sdurzu/Prova/ildepositogap/platforms/android/assets/www/ripple.index.html \
 /home/sdurzu/Prova/ildepositogap/platforms/android/assets/www/app \
+/home/sdurzu/Prova/ildepositogap/platforms/android/assets/www/plugins/org.apache.cordova.network-information \
+/home/sdurzu/Prova/ildepositogap/platforms/android/assets/www/plugins/org.apache.cordova.network-information/www \
+/home/sdurzu/Prova/ildepositogap/platforms/android/assets/www/plugins/org.apache.cordova.network-information/www/network.js \
+/home/sdurzu/Prova/ildepositogap/platforms/android/assets/www/plugins/org.apache.cordova.network-information/www/Connection.js \
 /home/sdurzu/Prova/ildepositogap/platforms/android/assets/www/includes/menu.inc.js \
 /home/sdurzu/Prova/ildepositogap/platforms/android/assets/www/includes/common.inc.js \
 /home/sdurzu/Prova/ildepositogap/platforms/android/assets/www/includes/theme.inc.js \
@@ -92,4 +97,5 @@
 /home/sdurzu/Prova/ildepositogap/platforms/android/assets/www/modules/comment/comment.js \
 /home/sdurzu/Prova/ildepositogap/platforms/android/assets/www/app/README \
 /home/sdurzu/Prova/ildepositogap/platforms/android/assets/www/app/default.settings.js \
+/home/sdurzu/Prova/ildepositogap/platforms/android/assets/www/app/settings.js \
 /home/sdurzu/Prova/ildepositogap/platforms/android/bin/AndroidManifest.xml \

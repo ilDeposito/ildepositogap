@@ -1,4 +1,6 @@
 /home/sdurzu/Prova/ildepositogap/platforms/android/bin/classes.dex : \
+/home/sdurzu/Prova/ildepositogap/platforms/android/bin/classes/org/apache/cordova/networkinformation/NetworkManager.class \
+/home/sdurzu/Prova/ildepositogap/platforms/android/bin/classes/org/apache/cordova/networkinformation/NetworkManager$1.class \
 /home/sdurzu/Prova/ildepositogap/platforms/android/bin/classes/com/coolappz/Gap/R$attr.class \
 /home/sdurzu/Prova/ildepositogap/platforms/android/bin/classes/com/coolappz/Gap/R$drawable.class \
 /home/sdurzu/Prova/ildepositogap/platforms/android/bin/classes/com/coolappz/Gap/R$xml.class \
